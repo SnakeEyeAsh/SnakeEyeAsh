@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**SnakeEyeAsh/SnakeEyeAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Raidel Martinez 👋
 
-Here are some ideas to get you started:
+💻 Multiplatform Software Developer
+🚀 Passionate about building efficient, user-focused applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 📂 Projects
+
+**Pro_Review**
+https://n9.cl/4nd64
+
+**App Interfaces**
+https://github.com/SnakeEyeAsh/Appnterfaces
+
+## 🌐 Links
+
+GitHub: https://github.com/SnakeEyeAsh
+Portfolio: https://raid-el-martinez.com
+LinkedIn: https://www.linkedin.com/in/raidel-martinez-90bba0281
+
+
+## 📫 Contact
+
+[raidelmfernandez@gmail.com](mailto:raidelmfernandez@gmail.com)
+
+---
+## GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SnakeEyeAsh&theme=dark)](https://git.io/streak-stats)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SnakeEyeAsh&show_icons=true&theme=tokyonight)
