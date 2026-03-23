@@ -16,7 +16,6 @@ https://github.com/SnakeEyeAsh/Appnterfaces
 
 ## 🌐 Links
 
-GitHub: https://github.com/SnakeEyeAsh
 Portfolio: https://raid-el-martinez.com
 LinkedIn: https://www.linkedin.com/in/raidel-martinez-90bba0281
 
