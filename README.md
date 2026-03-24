@@ -12,7 +12,7 @@
 https://n9.cl/4nd64
 
 **App Interfaces**
-https://github.com/SnakeEyeAsh/AppInterfaces
+https://github.com/SnakeEyeAsh/Appnterfaces
 
 ## 🌐 Links
 
